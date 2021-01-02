@@ -4,7 +4,7 @@
 
 #### Unlabeled Text Corpora
 
-- SdeWaC
+-[SdeWaC](https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/sdewac/) - a 0.88 billion word corpus, subset of the deWaC, a crawled dataset. Not  direct download, must be reuquested per email. Duplicate phrases in the same web domain were removed. Available also as POS tagged and lemmatized (automatic processed)
 
 
 
